@@ -35,6 +35,11 @@
         padding-left: 8px;
     }
 
+    .section2Title {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
     .section2card {
         flex: 1 0 260px;
         padding-inline: 0;
