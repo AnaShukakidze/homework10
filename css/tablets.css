@@ -1,0 +1,56 @@
+/* 768 - 481 */
+@media(max-width: 481px) {
+
+    /* header */
+    header {
+        padding-inline: 8px;
+    }
+
+    /* section1 */
+    .section1 {
+        height: 320px;
+        padding-top: 60px;
+    }
+
+    .section1container {
+        height: 40px;
+    }
+
+    .section1Title {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .section1IconLink {
+        width: 40px;
+        height: 40px;
+    }
+
+    .section1Icon {
+        width: 100%;
+    }
+
+    /* section2 */
+    .section2 {
+        padding-left: 8px;
+    }
+
+    .section2card {
+        flex: 1 0 260px;
+        padding-inline: 0;
+    }
+
+    .cardButton {
+        display: none;
+    }
+
+    .textContainer {
+        padding-left: 8px;
+    }
+
+    /* footer */
+    footer {
+        flex-direction: column;
+        row-gap: 32px;
+    }
+}
